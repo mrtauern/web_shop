@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "5fd74106c6dc0a6935c02e50"
+  },
+  "name": "Macbook pro 13\"",
+  "price": 8600,
+  "stock": 23,
+  "weight": 1,
+  "picture": null,
+  "thumbnail": null,
+  "create_date": "2020-12-03 13:50:27.000000",
+  "description": "Apple Computer is very popular  "
+},{
+  "_id": {
+    "$oid": "5fd74106c6dc0a6935c02e51"
+  },
+  "name": "Macbook pro 15\"",
+  "price": 10299,
+  "stock": 22,
+  "weight": 2,
+  "picture": null,
+  "thumbnail": null,
+  "create_date": "2020-12-03 13:50:27.000000",
+  "description": "It is used for many different porposes"
+},{
+  "_id": {
+    "$oid": "5fd74106c6dc0a6935c02e52"
+  },
+  "name": "MAcbook pro Air 13\"",
+  "price": 12000,
+  "stock": 12,
+  "weight": 1,
+  "picture": null,
+  "thumbnail": null,
+  "create_date": "2020-12-03 13:50:27.000000",
+  "description": "For student"
+},{
+  "_id": {
+    "$oid": "5fd74106c6dc0a6935c02e53"
+  },
+  "name": "Ipad Pro 12\"",
+  "price": 5050,
+  "stock": 3,
+  "weight": 1,
+  "picture": null,
+  "thumbnail": null,
+  "create_date": "2020-12-03 13:50:27.000000",
+  "description": "For Pros"
+}]

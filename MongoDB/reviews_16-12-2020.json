@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "5fd74252c6dc0a6935c02e58"
+  },
+  "rating": 2,
+  "content": "i love this product, small and handy",
+  "create_date": "2020-12-07 10:46:14.000000",
+  "productId": {
+    "$oid": "5fd74106c6dc0a6935c02e50"
+  },
+  "userId": {
+    "$oid": "5fd74388c6dc0a6935c02e5c"
+  }
+},{
+  "_id": {
+    "$oid": "5fd74252c6dc0a6935c02e59"
+  },
+  "rating": 4,
+  "content": "its okay, but not so good, bcz of its size, and requirment is bad too",
+  "create_date": "2020-12-04 11:04:28.000000",
+  "productId": {
+    "$oid": "5fd74106c6dc0a6935c02e51"
+  },
+  "userId": {
+    "$oid": "5fd74388c6dc0a6935c02e5d"
+  }
+},{
+  "_id": {
+    "$oid": "5fd74252c6dc0a6935c02e5a"
+  },
+  "rating": 3,
+  "content": "very thin and stylish product, good for study, but not for heavy work.",
+  "create_date": "2020-12-04 11:04:28.000000",
+  "productId": {
+    "$oid": "5fd74106c6dc0a6935c02e52"
+  },
+  "userId": {
+    "$oid": "5fd74388c6dc0a6935c02e5e"
+  }
+},{
+  "_id": {
+    "$oid": "5fd74252c6dc0a6935c02e5b"
+  },
+  "rating": 1,
+  "content": "i've always wanted one of this, but, i dont like apple, thats the reason i dont buy one.",
+  "create_date": "2020-12-07 10:46:14.000000",
+  "productId": {
+    "$oid": "5fd74106c6dc0a6935c02e53"
+  },
+  "userId": {
+    "$oid": "5fd74388c6dc0a6935c02e5f"
+  }
+}]
